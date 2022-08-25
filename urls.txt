@@ -1,0 +1,8 @@
+
+
+ccbp urls:---
+
+ramdom----quotes 
+
+
+ "https://apis.ccbp.in/jokes/random"
